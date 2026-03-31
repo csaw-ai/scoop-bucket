@@ -6,14 +6,14 @@
             "bin": [
                 "csaw.exe"
             ],
-            "hash": "5b7d563e1f94349feedc49d506c2f1aa9f97bb6489a7f29c53348d59417c9a17"
+            "hash": "e1e5e83876b0d36f5c46002b06e9f23b4346fe7421ff42d9018b876f041adceb"
         },
         "arm64": {
             "url": "https://github.com/csaw-ai/csaw/releases/download/v0.1.0/csaw_0.1.0_windows_arm64.zip",
             "bin": [
                 "csaw.exe"
             ],
-            "hash": "4a9dd045f362424f358bb3fba9bea23a3b93a96cac1b6f13163141292b224f6c"
+            "hash": "89dd958774ce1bda25a9521183e5c44197e9df4e048d37d97e3f321cd59c6c32"
         }
     },
     "homepage": "https://github.com/csaw-ai/csaw",
