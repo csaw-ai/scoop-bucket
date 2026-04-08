@@ -1,19 +1,19 @@
 {
-    "version": "0.2.2",
+    "version": "0.2.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/csaw-ai/csaw/releases/download/v0.2.2/csaw_0.2.2_windows_amd64.zip",
+            "url": "https://github.com/csaw-ai/csaw/releases/download/v0.2.3/csaw_0.2.3_windows_amd64.zip",
             "bin": [
                 "csaw.exe"
             ],
-            "hash": "fc2ae30ef1a15bc660f02cbbc32b01715f4094008af90ec4e7d9747e014e5604"
+            "hash": "07a327f2a7576afd8bf92961b237ca591771f89a7a6e6a1f2baec41bc3dd90b1"
         },
         "arm64": {
-            "url": "https://github.com/csaw-ai/csaw/releases/download/v0.2.2/csaw_0.2.2_windows_arm64.zip",
+            "url": "https://github.com/csaw-ai/csaw/releases/download/v0.2.3/csaw_0.2.3_windows_arm64.zip",
             "bin": [
                 "csaw.exe"
             ],
-            "hash": "5313550737e7573010c8fdea9bd7e84a55332653c52a97ea21352a691774b8ef"
+            "hash": "7d9bd9a2e566dbc98ce41f5362d00634780cbc88583728417ea2748b5e030f79"
         }
     },
     "homepage": "https://github.com/csaw-ai/csaw",
