@@ -1,22 +1,22 @@
 {
-    "version": "0.3.0",
+    "version": "0.3.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/csaw-ai/csaw/releases/download/v0.3.0/csaw_0.3.0_windows_amd64.zip",
+            "url": "https://github.com/NicholasCullenCooper/csaw/releases/download/v0.3.1/csaw_0.3.1_windows_amd64.zip",
             "bin": [
                 "csaw.exe"
             ],
-            "hash": "ed76cd08cdb9618273b6a6b371072adfc45b7261020c3f876dfbd05708f2ab90"
+            "hash": "c323c5034ebadb36d030830f99813400a4e30578bd3996e3b0eb9541feab613b"
         },
         "arm64": {
-            "url": "https://github.com/csaw-ai/csaw/releases/download/v0.3.0/csaw_0.3.0_windows_arm64.zip",
+            "url": "https://github.com/NicholasCullenCooper/csaw/releases/download/v0.3.1/csaw_0.3.1_windows_arm64.zip",
             "bin": [
                 "csaw.exe"
             ],
-            "hash": "06f1ea44f23d65425f54d242b5e48897c47f08a1a67fc1f576234c8a7735ff6c"
+            "hash": "568aa644dbbbf39441195978a5995e7fe3bd0f0e2648cbbfa2a9bce27858f140"
         }
     },
-    "homepage": "https://github.com/csaw-ai/csaw",
+    "homepage": "https://github.com/NicholasCullenCooper/csaw",
     "license": "MIT",
     "description": "Mount, not install. AI workspace configuration from git-backed registries."
 }
